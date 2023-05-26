@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joan Serrano</h1>
 <h3 align="center">An aspirant software developer</h3>
-<img src="https://giphy.com/embed/Dh5q0sShxgp13DwrvG" width="480" height="296" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fe4%2F26%2F70%2Fe426702edf874b181aced1e2fa5c6cde.gif&tbnid=bm-5ttG2JLMj3M&vet=12ahUKEwiLnMm9g5L_AhXTsEwKHbmIAywQMygEegUIARCEAg..i&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F567523990538356835%2F&docid=fdH4pIgsIPIsqM&w=480&h=360&q=animated%20coding%20gif&ved=2ahUKEwiLnMm9g5L_AhXTsEwKHbmIAywQMygEegUIARCEAg" width="480" height="296" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
 - 🌱 I’m currently learning **Rust, Svelte**
 
