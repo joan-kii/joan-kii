@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joan Serrano</h1>
 <h3 align="center">An aspirant software developer</h3>
+<iframe src="https://giphy.com/embed/Dh5q0sShxgp13DwrvG" width="480" height="296" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 - 🌱 I’m currently learning **Rust, Svelte**
 
