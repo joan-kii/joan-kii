@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Rust, Svelte**
 
-- 👨‍💻 All of my projects are available at [https://joanserrano.es](joanserrano.es)
+- 👨‍💻 All of my projects are available at [joanserrano.es](https://joanserrano.es)
 
 - 📫 How to reach me **joan.sb@hotmail.com**
 
-- 📄 Know about my experiences [https://joanserrano.es](joanserrano.es)
+- 📄 Know about my experiences [joanserrano.es](https://joanserrano.es)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
