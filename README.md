@@ -1,8 +1,8 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://joanserrano.es)
 <h1 align="center">Hi 👋, I'm Joan Serrano</h1>
-<h3 align="center">An aspirant software developer</h3>
+<h3 align="center">Sparky by trade, coder by choice!</h3>
 
-- 🌱 I’m currently following **[Full Stack Open (University of Helsinki)](https://fullstackopen.com/en/)**
+- 🌱 I’m currently coding a *top secret* side project.
 
 - 👨‍💻 All of my projects are available at [joanserrano.es](https://joanserrano.es)
 
@@ -14,8 +14,6 @@
 <p align="left">
 <a href="https://twitter.com/joan_kii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joan_kii" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/joan-serrano-bau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joan-serrano-bau" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/13162001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13162001" height="30" width="40" /></a>
-<a href="https://kaggle.com/joankii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="joankii" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
