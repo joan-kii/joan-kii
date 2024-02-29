@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently coding a *top secret* side project.
 
-- 👨‍💻 All of my projects are available at [joanserrano.es](https://joanserrano.es)
+- 👨‍💻 Some of my projects are available at [joanserrano.es](https://joanserrano.es)
 
 - 📫 How to reach me **joan.sb@hotmail.com**
 
